@@ -1,0 +1,34 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "server.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardoalvessantos/Node-JS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Eduardo Alves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardoalvessantos/Node-JS/issues"
+  },
+  "homepage": "https://github.com/eduardoalvessantos/Node-JS#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
